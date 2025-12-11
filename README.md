@@ -1,4 +1,3 @@
-### Hi there 👋
 
 **Project Lead - Data Science | AI/ML Engineer | Generative AI & LLM Applications (LangChain, RAG, Agents) | Semantic Search & Predictive Modeling | MLOps (Databricks / Azure)**
 
