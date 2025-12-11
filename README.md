@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-**I am working as a Data Science Engineer at AVL. Experience in predictive/statistical modeling and solving complex real-world analytics problems.
-Skilled in Python, Machine learning algorithms, and their various frameworks such as Scikit-learn, Tensorflow, PyTorch, Keras, OpenCV, and XGBoost.**
+**Project Lead - Data Science | AI/ML Engineer | Generative AI & LLM Applications (LangChain, RAG, Agents) | Semantic Search & Predictive Modeling | MLOps (Databricks / Azure)**
 
 <!--
 **alokrajg/alokrajg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
